@@ -2,7 +2,7 @@
 ## FUNDAMENTOS DE DISEÑO
 **Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño**
 
-*¡Hola!, somos el grupo1, en esta oportunidad usaremos este repositorio para poder subir los trabajos que realicemos en cada sesión durante el curso*
+*¡Hola!, somos el grupo 1, en esta oportunidad usaremos este repositorio para poder subir los trabajos que realicemos en cada sesión durante el curso*
 
 **El equipo está conformado por:**
 - Nieves Sulca Jordan André
