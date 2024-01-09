@@ -6,7 +6,7 @@
 
 **El equipo está conformado por:**
 - Nieves Sulca Jordan André(Coordinador de investigación)- jordan.nieves@upch.pe
-- Perez Damian Cindy Mayomi (Coordinadora de prototipado)- cindy.perez@upch.pe
+- Pérez Damián Cindy Mayomi (Coordinadora de prototipado)- cindy.perez@upch.pe
 - Salazar Leon Sergio Leoncio (Coordinador de modelado 3D)- sergio.salazar.l@upch.pe
 - Ugarte Cruz Alessandra (Coordinadora de boceto)-alessandra.ugarte@upch.pe
   
