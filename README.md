@@ -27,5 +27,10 @@ Proyecto: **VitalEcoPower**
 4.   Casos registrados
 5.   Posibles soluciones
 
+**Contenido de las carpetas**
+- Archivo 1: Tipos de energía renovables y no renovables en el Perú
+- Archivo 2: Encuestas a la población
+- Archivo 3: Antecedentes de la implementación de la ODS 7
+- Archivo 4: Misión y visión
 
 
