@@ -10,7 +10,7 @@
 - Salazar Leon Sergio Leoncio (Coordinador de modelado 3D)- sergio.salazar.l@upch.pe
 - Ugarte Cruz Alessandra (Coordinadora de boceto)-alessandra.ugarte@upch.pe
   
-
+![415622409_386194930453611_3057322784783851784_n](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f)
 
 *Proyecto: IMPLEMENTACIÓN DE SEÑALIZACIONES DE TRÁNSITO EN LIMA METROPOLITANA*
 
