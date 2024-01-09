@@ -5,10 +5,10 @@
 *¡Hola!, somos el grupo 1, en esta oportunidad usaremos este repositorio para poder subir los trabajos que realicemos en cada sesión durante el curso*
 
 **El equipo está conformado por:**
-- Nieves Sulca Jordan André
-- Perez Damian Cindy Mayomi
-- Salazar Leon Sergio Leoncio
-- Ugarte Cruz Alessandra
+- Nieves Sulca Jordan André(Coordinador de investigación)- jordan.nieves@upch.pe
+- Perez Damian Cindy Mayomi (Coordinadora de prototipado)- cindy.perez@upch.pe
+- Salazar Leon Sergio Leoncio (Coordinador de modelado 3D)- sergio.salazar.l@upch.pe
+- Ugarte Cruz Alessandra (Coordinadora de boceto)-alessandra.ugarte@upch.pe
   
 
 
