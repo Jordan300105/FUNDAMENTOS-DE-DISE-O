@@ -13,7 +13,9 @@
 ![415622409_386194930453611_3057322784783851784_n](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f)
 
 *Proyecto: IMPLEMENTACIÓN DE SEÑALIZACIONES DE TRÁNSITO EN LIMA METROPOLITANA*
+
 *ODS 7: Energia asequible y no contaminante*
+
 **El objetivo principal disminuir la congestión vehicular y mitigar las molestias causadas por los ruidos de los vehículos**
 
 ![imagen del grupo](https://elcomercio.pe/resizer/G6lXX5AIwXCtFJ55obIDjmtZ99E=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GXRHOH7ALRBFDIFPISHBFMPVYU.jpg)
