@@ -12,19 +12,20 @@
   
 ![415622409_386194930453611_3057322784783851784_n](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f)
 
-*Proyecto: IMPLEMENTACIÓN DE SEÑALIZACIONES DE TRÁNSITO EN LIMA METROPOLITANA*
+*Proyecto: VitalEcoPower*
 
 *ODS 7: Energia asequible y no contaminante*
 
-**El objetivo principal disminuir la congestión vehicular y mitigar las molestias causadas por los ruidos de los vehículos**
+**El objetivo principal es proporcionar energía asequible y económica a la población peruana sin dañar los diversos ecosistemas**
 
-![imagen del grupo](https://elcomercio.pe/resizer/G6lXX5AIwXCtFJ55obIDjmtZ99E=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GXRHOH7ALRBFDIFPISHBFMPVYU.jpg)
+![imagen del grupo](https://sf6colombia.com/wp-content/uploads/2023/05/La-importancia-de-la-energia-renovable-en-la-lucha-contra-el-cambio-climatico.jpg)
 
 **Tabla de contenido**
-1.   Documentación
-2.   Hardwarde
-3.   Imagenes
-4.   Software
+1.   Introducción
+2.   Objetivo de la ODS7
+3.   Misión y visión
+4.   Casos registrados
+5.   Posibles soluciones
 
 
 
