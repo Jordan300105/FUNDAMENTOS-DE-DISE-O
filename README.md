@@ -39,6 +39,8 @@ Proyecto: **VitalEcoPower**
 - Hardware.- Se subirán las imágenes y características del equipo tecnológico usado a lo largo del desarrollo del proyecto
 - Imagenes.- En esta carpeta se encontrarán imágenes del desarrollo y momentos de trabajo del equipo (prototipos, reuniones, mapas, etc.)
 - Documentación.- En esta carpeta se encontrarán los distintos archivos de texto usados, sean encuestas, informes, etc.
-  
+
+
+añadir linkjduejeowps
 
 
