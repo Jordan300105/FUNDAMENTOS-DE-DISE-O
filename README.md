@@ -11,6 +11,10 @@
 - Salazar Leon Sergio Leoncio (Coordinador de modelado 3D)- sergio.salazar.l@upch.pe
 - Ugarte Cruz Alessandra (Coordinadora de boceto)-alessandra.ugarte@upch.pe
 
+# SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE 
+
+![ODS](https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=bWJ8gErt)
+
 
 ![415622409_386194930453611_3057322784783851784_n](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f)
 
@@ -30,9 +34,10 @@ Proyecto: **VitalEcoPower**
 5.   Posibles soluciones
 
 **Contenido de las carpetas**
-- Archivo 1: Tipos de energía renovables y no renovables en el Perú
-- Archivo 2: Encuestas a la población
-- Archivo 3: Antecedentes de la implementación de la ODS 7
-- Archivo 4: Misión y visión
+- Software.- Se actualizará la carpeta con los diferentes programas y códigos necesarios para llevar a cabo el proyecto
+- Hardware.- Se subirán las imágenes y características del equipo tecnológico usado a lo largo del desarrollo del proyecto
+- Imagenes.- En esta carpeta se encontrarán imágenes del desarrollo y momentos de trabajo del equipo (prototipos, reuniones, mapas, etc.)
+- Documentación.- En esta carpeta se encontrarán los distintos archivos de texto usados, sean encuestas, informes, etc.
+  
 
 
