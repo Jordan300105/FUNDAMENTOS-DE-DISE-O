@@ -2,7 +2,7 @@
 ## FUNDAMENTOS DE DISEÑO
 **Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño**
 
-*¡Hola!, somos el grupo 1, y vamos a utilizar este repositorio para compartir y cargar los proyectos que llevemos a cabo en cada sesión durante el desarrollo del curso.*
+*¡Hola!, somos el grupo 1, y vamos a utilizar este repositorio para compartir y cargar el proyecto que llevemos a cabo en cada sesión durante el desarrollo del curso.*
 
 **El equipo está conformado por:**
 - Florián Párraga Josué Abel (Programador y Desarrollador de Software) - josue.florian@upch.pe
