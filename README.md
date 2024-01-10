@@ -5,10 +5,12 @@
 *¡Hola!, somos el grupo 1, y vamos a utilizar este repositorio para compartir y cargar los proyectos que llevemos a cabo en cada sesión durante el desarrollo del curso.*
 
 **El equipo está conformado por:**
-- Nieves Sulca Jordan André(Coordinador de investigación)- jordan.nieves@upch.pe
+- Florián Párraga Josué Abel (Programador y Desarrollador de Software) - josue.florian@upch.pe
+- Nieves Sulca Jordan André (Coordinador de investigación)- jordan.nieves@upch.pe
 - Pérez Damián Cindy Mayomi (Coordinadora de prototipado)- cindy.perez@upch.pe
 - Salazar Leon Sergio Leoncio (Coordinador de modelado 3D)- sergio.salazar.l@upch.pe
 - Ugarte Cruz Alessandra (Coordinadora de boceto)-alessandra.ugarte@upch.pe
+
 
 ![415622409_386194930453611_3057322784783851784_n](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f)
 
