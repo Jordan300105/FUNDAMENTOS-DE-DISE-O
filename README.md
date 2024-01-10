@@ -20,7 +20,7 @@
 
 Proyecto: **VitalEcoPower**
 
-#**ODS 7: Energia asequible y no contaminante**
+# **ODS 7: Energia asequible y no contaminante**
 ![FOTO ODS 7](https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg)
 
 **El objetivo principal es proporcionar energía asequible y económica a la población peruana sin dañar los diversos ecosistemas**
