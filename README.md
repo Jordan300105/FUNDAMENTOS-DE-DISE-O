@@ -1,4 +1,4 @@
-![image](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/c38c9340-9841-4dde-925f-0f1e2a0dd8fc)# UNIVERSIDAD PERUANA CAYETANO HEREDIA
+# UNIVERSIDAD PERUANA CAYETANO HEREDIA
 ## FUNDAMENTOS DE DISEÑO
 **Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño**
 
@@ -20,7 +20,7 @@
 
 Proyecto: **VitalEcoPower**
 
-*ODS 7: Energia asequible y no contaminante*
+#**ODS 7: Energia asequible y no contaminante**
 ![FOTO ODS 7](https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg)
 
 **El objetivo principal es proporcionar energía asequible y económica a la población peruana sin dañar los diversos ecosistemas**
