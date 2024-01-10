@@ -16,6 +16,7 @@
 # SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE 
 
 ![ODS](https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=bWJ8gErt)
+
 United Nations Web
 
 ![415622409_386194930453611_3057322784783851784_n](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f)
@@ -29,6 +30,7 @@ United Nations Web
 **El objetivo principal es proporcionar energía asequible y económica a la población peruana sin dañar los diversos ecosistemas**
 
 ![imagen del grupo](https://sf6colombia.com/wp-content/uploads/2023/05/La-importancia-de-la-energia-renovable-en-la-lucha-contra-el-cambio-climatico.jpg)
+La importancia de la energía renovable - Gas SF6 Colombia
 
 **Tabla de contenido**
 1.   Introducción
