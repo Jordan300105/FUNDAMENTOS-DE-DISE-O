@@ -34,10 +34,10 @@ La importancia de la energía renovable - Gas SF6 Colombia
 
 **Tabla de contenido**
 1.   [Introducción](https://www.google.com/)
-2.   Objetivo de la ODS7
-3.   Misión y visión
-4.   Casos registrados
-5.   Posibles soluciones
+2.   [Objetivo de la ODS 7](https://www.google.com/)
+3.   [Misión y visión](https://www.google.com/)
+4.   [Casos registrados](https://www.google.com/)
+5.   [Posibles soluciones](https://www.google.com/)
 
 **Contenido de las carpetas**
 - Software.- Se actualizará la carpeta con los diferentes programas y códigos necesarios para llevar a cabo el proyecto
