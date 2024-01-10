@@ -4,6 +4,8 @@
 
 *¡Hola!, somos el grupo 1, y vamos a utilizar este repositorio para compartir y cargar el proyecto que llevemos a cabo en cada sesión durante el desarrollo del curso.*
 
+*Buscamos poder desarrollar e implementar soluciones de energía sostenible en Perú, enfocado en el uso de fuentes renovables para poder proporcionar acceso asequible a la energía sin dañar los ecosistemas.*
+
 **El equipo está conformado por:**
 - Florián Párraga Josué Abel (Programador y Desarrollador de Software) - josue.florian@upch.pe
 - Nieves Sulca Jordan André (Coordinador de investigación)- jordan.nieves@upch.pe
@@ -14,7 +16,7 @@
 # SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE 
 
 ![ODS](https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=bWJ8gErt)
-United Nations Web
+https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=bWJ8gErt
 
 
 ![415622409_386194930453611_3057322784783851784_n](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f)
@@ -23,12 +25,10 @@ Proyecto: **VitalEcoPower**
 
 # **ODS 7: Energia asequible y no contaminante**
 ![FOTO ODS 7](https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg)
-United Nations webpage
 
 **El objetivo principal es proporcionar energía asequible y económica a la población peruana sin dañar los diversos ecosistemas**
 
 ![imagen del grupo](https://sf6colombia.com/wp-content/uploads/2023/05/La-importancia-de-la-energia-renovable-en-la-lucha-contra-el-cambio-climatico.jpg)
-La importancia de la energía renovable - Gas SF6 Colombia 
 
 **Tabla de contenido**
 1.   Introducción
@@ -44,5 +44,6 @@ La importancia de la energía renovable - Gas SF6 Colombia
 - Documentación.- En esta carpeta se encontrarán los distintos archivos de texto usados, sean encuestas, informes, etc.
 
 
+añadir linkjduejeowps
 
 
