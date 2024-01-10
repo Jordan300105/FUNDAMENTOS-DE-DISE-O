@@ -31,7 +31,7 @@ Proyecto: **VitalEcoPower**
 2.   Objetivo de la ODS7
 3.   ![Misión y visión]
 4.   ![Casos registrados]
-5.   ![Posibles soluciones]
+5.   [Posibles soluciones]
 
 **Contenido de las carpetas**
 - Software.- Se actualizará la carpeta con los diferentes programas y códigos necesarios para llevar a cabo el proyecto
