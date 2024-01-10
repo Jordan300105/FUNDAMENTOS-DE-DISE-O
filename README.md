@@ -46,6 +46,4 @@ La importancia de la energía renovable - Gas SF6 Colombia
 - Documentación.- En esta carpeta se encontrarán los distintos archivos de texto usados, sean encuestas, informes, etc.
 
 
-añadir linkjduejeowps
-
 
