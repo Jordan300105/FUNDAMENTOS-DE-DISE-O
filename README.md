@@ -55,7 +55,8 @@ Proyecto: **VitalEcoPower**
 5. [Contenido de Carpetas](#contenido-de-las-carpetas)
 6. [Tablas](#probando-con-tablas)
 
-**Contenido de las carpetas**
+## **Contenido de las carpetas**
+
 - Software.- Se actualizará la carpeta con los diferentes programas y códigos necesarios para llevar a cabo el proyecto
 - Hardware.- Se subirán las imágenes y características del equipo tecnológico usado a lo largo del desarrollo del proyecto
 - Imagenes.- En esta carpeta se encontrarán imágenes del desarrollo y momentos de trabajo del equipo (prototipos, reuniones, mapas, etc.)
