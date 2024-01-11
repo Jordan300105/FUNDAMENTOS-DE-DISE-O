@@ -46,20 +46,16 @@ Proyecto: **VitalEcoPower**
 >La importancia de la energía renovable - Gas SF6 Colombia
 
 **Tabla de contenido**
-## Choose an Option:
-
-<select>
-  <option value="option1">Option 1</option>
-  <option value="option2">Option 2</option>
-  <option value="option3">Option 3</option>
-</select>
-
-
-[TOCM]
-
-[TOC]
-
-
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+   - [Prerequisites](#prerequisites)
+   - [Installation Steps](#installation-steps)
+4. [Usage](#usage)
+5. [Configuration](#configuration)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Acknowledgements](#acknowledgements)
 
 **Contenido de las carpetas**
 - Software.- Se actualizará la carpeta con los diferentes programas y códigos necesarios para llevar a cabo el proyecto
