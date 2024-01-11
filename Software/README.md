@@ -15,5 +15,5 @@ Incluimos documentación detallada que incluye cada programa usado o creado, par
 
 **¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
 
-[Nombre del Proyecto] - Desarrollando para un Futuro Sostenible 🌍
+**[Nombre del Proyecto] - Desarrollando para un Futuro Sostenible 🌍**
 
