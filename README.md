@@ -30,9 +30,9 @@
 Proyecto: **VitalEcoPower**
 
 # **ODS 7: Energia asequible y no contaminante**
-<div style="text-align: center;">
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg" alt="FOTO ODS 7" width="300px" />
-</div>
+</p>
 
 >United Nations Web
 
