@@ -80,3 +80,9 @@ Todavía más contenido  | Incluso más contenido
 | menos | Proteína       |    S/. 999 |
                 
 ----
+
+**¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
+
+**[Nombre del Proyecto] - Desarrollando para un Futuro Sostenible 🌍**
+
+
