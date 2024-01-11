@@ -16,13 +16,13 @@
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 
-<p align "center">
+<p align = "center">
   <img src="https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=bWJ8gErt" alt="ODS" width="300px" />
 </p>
 
 >United Nations Web
 
-<p align: "center">
+<p align= "center">
   <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f" alt="Grupo trabajando" width="300px" />
 </p>
 
