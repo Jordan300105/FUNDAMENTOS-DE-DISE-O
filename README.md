@@ -37,7 +37,7 @@ Proyecto: **VitalEcoPower**
 
 >United Nations Web
 
-**El objetivo principal es proporcionar energía asequible y económica a la población peruana sin dañar los diversos ecosistemas**
+## **El objetivo principal es proporcionar energía asequible y económica a la población peruana sin dañar los diversos ecosistemas**
 
 <p align= "center">
   <img src="https://sf6colombia.com/wp-content/uploads/2023/05/La-importancia-de-la-energia-renovable-en-la-lucha-contra-el-cambio-climatico.jpg" alt="imagen del grupo" width="300px"/>
