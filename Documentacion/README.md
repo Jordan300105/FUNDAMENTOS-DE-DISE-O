@@ -18,4 +18,6 @@ Seguimos el formato de citas de la 7ma edición del estilo APA para garantizar l
 > Autor, A. y Autor, B. (año de publicación). Título del capítulo del libro.
 
 
-\[Nombre del Proyecto\] - Basando Nuestro Desarrollo en Evidencia Científica 📚
+**¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
+
+**[Nombre del Proyecto] - Desarrollando para un Futuro Sostenible 🌍**
