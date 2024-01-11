@@ -1,3 +1,4 @@
+# **README - Carpeta de Documentación**
 # Documentación
 
 Esta carpeta contiene una recopilación de informes, referencias de literatura científica, documentos de texto y diversas fuentes de información escrita que han sido utilizadas a lo largo de nuestro proyecto. Nos esforzamos por basar nuestras decisiones y acciones en evidencia sólida y actualizada.
