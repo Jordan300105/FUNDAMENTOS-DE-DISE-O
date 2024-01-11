@@ -52,11 +52,8 @@ Proyecto: **VitalEcoPower**
 4. [ODS 7](#ods-7-energia-asequible-y-no-contaminante)
    - [Objetivo](#el-objetivo-principal-es-proporcionar-energía-asequible-y-económica-a-la-población-peruana-sin-dañar-los-diversos-ecosistemas)
 
-5. [Usage](#usage)
-6. [Configuration](#configuration)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
+5. [Contenido de Carpetas](#contenido-de-las-carpetas)
+6. [Tablas](#probando-con-tablas)
 
 **Contenido de las carpetas**
 - Software.- Se actualizará la carpeta con los diferentes programas y códigos necesarios para llevar a cabo el proyecto
