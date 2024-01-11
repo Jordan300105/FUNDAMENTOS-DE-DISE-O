@@ -1,7 +1,7 @@
 **UNIVERSIDAD PERUANA CAYETANO HEREDIA**
 **FUNDAMENTOS DE DISEÑO**
 **Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño**
-
+# **INTRODUCCIÓN**
 *¡Hola!, somos el grupo 1, y vamos a utilizar este repositorio para compartir y cargar el proyecto que llevemos a cabo en cada sesión durante el desarrollo del curso.*
 
 *Buscamos poder desarrollar e implementar soluciones de energía sostenible en Perú, enfocado en el uso de fuentes renovables para poder proporcionar acceso asequible a la energía sin dañar los ecosistemas.*
@@ -46,16 +46,16 @@ Proyecto: **VitalEcoPower**
 >La importancia de la energía renovable - Gas SF6 Colombia
 
 **Tabla de contenido**
-1. [Introduction](#MIEMBROS)
-2. [Features](#features)
-3. [Installation](#installation)
+1. [Introduction](#INTRODUCCIÓN)
+3. [Features](#features)
+4. [Installation](#installation)
    - [Prerequisites](#prerequisites)
    - [Installation Steps](#installation-steps)
-4. [Usage](#usage)
-5. [Configuration](#configuration)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgements](#acknowledgements)
+5. [Usage](#usage)
+6. [Configuration](#configuration)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Acknowledgements](#acknowledgements)
 
 **Contenido de las carpetas**
 - Software.- Se actualizará la carpeta con los diferentes programas y códigos necesarios para llevar a cabo el proyecto
