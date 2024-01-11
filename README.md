@@ -16,21 +16,33 @@
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 
-<img src="https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=bWJ8gErt" alt="ODS" width="300px"/>
+<div style="text-align: center;">
+  <img src="https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=bWJ8gErt" alt="ODS" width="300px" />
+</div>
 
 >United Nations Web
 
-<img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f" alt="Grupo trabajando" width ="300px"/>
+<div style="text-align: center;">
+  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f" alt="Grupo trabajando" width="300px" />
+</div>
+
 
 Proyecto: **VitalEcoPower**
 
 # **ODS 7: Energia asequible y no contaminante**
-![FOTO ODS 7](https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg)
+<div style="text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg" alt="FOTO ODS 7" width="300px" />
+</div>
+
 >United Nations Web
 
 **El objetivo principal es proporcionar energía asequible y económica a la población peruana sin dañar los diversos ecosistemas**
 
-![imagen del grupo](https://sf6colombia.com/wp-content/uploads/2023/05/La-importancia-de-la-energia-renovable-en-la-lucha-contra-el-cambio-climatico.jpg)
+<div style="text-align:center">
+  <img src="https://sf6colombia.com/wp-content/uploads/2023/05/La-importancia-de-la-energia-renovable-en-la-lucha-contra-el-cambio-climatico.jpg" alt="imagen del grupo" width="300px"/>
+</div>
+
+
 >La importancia de la energía renovable - Gas SF6 Colombia
 
 **Tabla de contenido**
