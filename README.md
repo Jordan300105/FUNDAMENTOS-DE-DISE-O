@@ -48,8 +48,8 @@ Proyecto: **VitalEcoPower**
 
 **Tabla de contenido**
 1. [Introduction](#INTRODUCCIÓN)
-3. [Features](#features)
-4. [Installation](#installation)
+3. [Miembros](#MIEMBROS)
+4. [ODS 7](#ODS)
    - [Prerequisites](#prerequisites)
    - [Installation Steps](#installation-steps)
 5. [Usage](#usage)
