@@ -50,8 +50,8 @@ Proyecto: **VitalEcoPower**
 1. [Introduction](#INTRODUCCIÓN)
 3. [Miembros](#MIEMBROS)
 4. [ODS 7](#ods-7-energia-asequible-y-no-contaminante)
-   - [Objetivo](#El-objetivo-principal-es-proporcionar-energía-asequible-y-económica-a-la-población-peruana-sin-dañar-los-diversos-ecosistemas)
-   - [Installation Steps](#installation-steps)
+   - [Objetivo](#el-objetivo-principal-es-proporcionar-energía-asequible-y-económica-a-la-población-peruana-sin-dañar-los-diversos-ecosistemas)
+
 5. [Usage](#usage)
 6. [Configuration](#configuration)
 7. [Contributing](#contributing)
