@@ -1,5 +1,6 @@
-**UNIVERSIDAD PERUANA CAYETANO HEREDIA**
-**FUNDAMENTOS DE DISEÑO**
+# **UNIVERSIDAD PERUANA CAYETANO HEREDIA**
+# **FUNDAMENTOS DE DISEÑO**
+
 **Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño**
 # **INTRODUCCIÓN**
 *¡Hola!, somos el grupo 1, y vamos a utilizar este repositorio para compartir y cargar el proyecto que llevemos a cabo en cada sesión durante el desarrollo del curso.*
