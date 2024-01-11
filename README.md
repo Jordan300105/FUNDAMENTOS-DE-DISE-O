@@ -16,15 +16,15 @@
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 
-<div style="text-align: center;">
+<p align "center">
   <img src="https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=bWJ8gErt" alt="ODS" width="300px" />
-</div>
+</p>
 
 >United Nations Web
 
-<div style="text-align: center;">
+<p align: "center">
   <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f" alt="Grupo trabajando" width="300px" />
-</div>
+</p>
 
 
 Proyecto: **VitalEcoPower**
@@ -38,9 +38,9 @@ Proyecto: **VitalEcoPower**
 
 **El objetivo principal es proporcionar energía asequible y económica a la población peruana sin dañar los diversos ecosistemas**
 
-<div style="text-align:center">
+<p align= "center">
   <img src="https://sf6colombia.com/wp-content/uploads/2023/05/La-importancia-de-la-energia-renovable-en-la-lucha-contra-el-cambio-climatico.jpg" alt="imagen del grupo" width="300px"/>
-</div>
+</p>
 
 
 >La importancia de la energía renovable - Gas SF6 Colombia
