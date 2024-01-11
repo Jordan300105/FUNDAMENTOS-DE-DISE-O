@@ -3,7 +3,7 @@
 
 **Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño**
 # **INTRODUCCIÓN**
-*¡Hola!, somos el grupo 1, y vamos a utilizar este repositorio para compartir y cargar el proyecto que llevemos a cabo en cada sesión durante el desarrollo del curso.*
+*¡Hola!, somos el grupo 1, y vamos a utilizar este repositorio para compartir y cargar el proyecto que llevaremos a cabo en cada sesión durante el desarrollo del curso.*
 
 *Buscamos poder desarrollar e implementar soluciones de energía sostenible en Perú, enfocado en el uso de fuentes renovables para poder proporcionar acceso asequible a la energía sin dañar los ecosistemas.*
 
