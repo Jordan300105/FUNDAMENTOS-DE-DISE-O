@@ -93,7 +93,9 @@ Todavía más contenido  | Incluso más contenido
                 
 ----
 # **Bibliografía**
-  - BC News, (22 de septiembre, 2021). ODS 7: Energía asequible y no contaminante. https://www.tuvsud.com/es-es/centro-recursos/blogs/ods-objetivos-desarrollo-sostenible/ods-7-energia-asequible-no-contaminante
+  - BC News, (22 de septiembre, 2021). ODS 7: Energía asequible y no contaminante. https://www.tuvsud.com/es-es/centro-recursos/blogs/ods-objetivos-desarrollo-sostenible/ods-7-energia-asequible-no-contaminante.
+-Valencia Fonnegra, K. (2023). Diplomado en gestión del riesgo y medio ambiente.
+
 
 **¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
 
