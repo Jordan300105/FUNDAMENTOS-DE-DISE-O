@@ -34,10 +34,24 @@ Proyecto: **VitalEcoPower**
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg" alt="FOTO ODS 7" width="300px" />
 </p>
-
 >United Nations Web
 
-## **El objetivo principal es proporcionar energía asequible y económica a la población peruana sin dañar los diversos ecosistemas**
+## **Definición de la ODS:** 
+
+
+### Trabajaremos en torno al punto 7.b
+>Ampliar la infraestructura y mejorar la tecnología para prestar servicios energéticos modernos y sostenibles para todos en los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países en desarrollo sin litoral, en consonancia con sus respectivos programas de apoyo
+## **OBJETIVO:**
+Plantear y promover alternativas de energía renovable (eólico) para el uso diario por medio de la 
+concientización del consumo ineficiente que se realiza diariamente en los hogares
+                
+## **¿Cómo lo haremos?** 
+Monitoreamos cuánta energía se gasta normalmente en la vida diaria
+y hacemos informes/publicidad sobre el consumo desmedido, cómo afecta al
+ambiente y presentamos alternativas que son más eficientes (como la energía
+eólica). Planteamos la infraestructura a instalar por medio de modelado 3D, planos
+bocetos, guias de uso y prototipado.
+
 
 <p align= "center">
   <img src="https://sf6colombia.com/wp-content/uploads/2023/05/La-importancia-de-la-energia-renovable-en-la-lucha-contra-el-cambio-climatico.jpg" alt="imagen del grupo" width="300px"/>
@@ -50,7 +64,7 @@ Proyecto: **VitalEcoPower**
 1. [Introduction](#INTRODUCCIÓN)
 3. [Miembros](#MIEMBROS)
 4. [ODS 7](#ods-7-energia-asequible-y-no-contaminante)
-   - [Objetivo](#el-objetivo-principal-es-proporcionar-energía-asequible-y-económica-a-la-población-peruana-sin-dañar-los-diversos-ecosistemas)
+   - [Objetivo](#objetivo)
 
 5. [Contenido de Carpetas](#contenido-de-las-carpetas)
 6. [Tablas](#probando-con-tablas)
