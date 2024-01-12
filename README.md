@@ -34,23 +34,20 @@ Proyecto: **VitalEcoPower**
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg" alt="FOTO ODS 7" width="300px" />
 </p>
+
 >United Nations Web
 
 ## **Definición de la ODS:** 
+El ODS 7 persigue aumentar el uso de energías renovables para no deteriorar las reservas de combustibles fósiles y fomentar la eficiencia energética, creando una economía sostenible en la que el bienestar de la sociedad y el medioambiente estén relacionados. 
+>(BC News et al., 2021).
 
 
 ### Trabajaremos en torno al punto 7.b
 >Ampliar la infraestructura y mejorar la tecnología para prestar servicios energéticos modernos y sostenibles para todos en los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países en desarrollo sin litoral, en consonancia con sus respectivos programas de apoyo
 ## **OBJETIVO:**
-Plantear y promover alternativas de energía renovable (eólico) para el uso diario por medio de la 
-concientización del consumo ineficiente que se realiza diariamente en los hogares
+Plantear y promover alternativas de energía renovable (eólico) para el uso diario por medio de la implementación de mejoras en la infraestructura de energía renovable 
                 
-## **¿Cómo lo haremos?** 
-Monitoreamos cuánta energía se gasta normalmente en la vida diaria
-y hacemos informes/publicidad sobre el consumo desmedido, cómo afecta al
-ambiente y presentamos alternativas que son más eficientes (como la energía
-eólica). Planteamos la infraestructura a instalar por medio de modelado 3D, planos
-bocetos, guias de uso y prototipado.
+
 
 
 <p align= "center">
@@ -94,6 +91,8 @@ Todavía más contenido  | Incluso más contenido
 | menos | Proteína       |    S/. 999 |
                 
 ----
+# **Bibliografía**
+  - BC News, (22 de septiembre, 2021). ODS 7: Energía asequible y no contaminante. https://www.tuvsud.com/es-es/centro-recursos/blogs/ods-objetivos-desarrollo-sostenible/ods-7-energia-asequible-no-contaminante
 
 **¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
 
