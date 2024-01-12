@@ -64,8 +64,8 @@ Plantear y promover alternativas de energía renovable (eólico) para el uso dia
    - [Objetivo](#objetivo)
 
 5. [Contenido de Carpetas](#contenido-de-las-carpetas)
-6. [Tablas](#probando-con-tablas)
-7. [Bibliografía](#bibliografia)
+6. [Bibliografía](#bibliografía)
+7. [Tablas](#probando-con-tablas)
 
 ## **Contenido de las carpetas**
 
