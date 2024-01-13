@@ -22,11 +22,12 @@ A continuación mostraremos los resultados de los puntos 1,2 y 3 acompañados de
 
 
 ## Valores ajustados de la gráfica
+[Imágen de los valores ajustados de la gráfica](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Imagenes/imágenes%20laboratorio%201/Señal%20Sinusoidal.jpg)
+
+## Valores medidos de la señal de entrada en un periodo
 En 1.8ms
 Frecuencia = 1KHz
 A = 5.4V
 En 3.6ms
 Frecuencia = 1KHz
 A = 6.25V
-
-## Valores medidos de la señal de entrada en un periodo
