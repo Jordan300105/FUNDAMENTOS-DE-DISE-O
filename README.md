@@ -26,7 +26,7 @@
 >United Nations Web
 
 <p align= "center">
-  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f" alt="Grupo trabajando" width="300px" />
+  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Imagenes/485415e1-da12-4e20-a0d1-b93ac3ab2097.jpg" alt="Grupo trabajando" width="300px" />
 </p>
 
 
