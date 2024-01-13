@@ -1,17 +1,6 @@
 **El equipo está conformado por:**
 
--Florián Párraga Josué Abel (Programador y Desarrollador de Software)  - josue.florian@upch.pe
-
--Nieves Sulca Jordan André (Coordinador de investigación)- jordan.nieves@upch.pe
-
--Pérez Damián Cindy Mayomi (Coordinadora de prototipado)- cindy.perez@upch.pe
-
--Salazar Leon Sergio Leoncio (Coordinador de modelado 3D)- sergio.salazar.l@upch.pe
-
--Ugarte Cruz Alessandra (Coordinadora de boceto)-alessandra.ugarte@upch.pe
-
-
-| Miembros  | del grupo 1 |
+| Miembros  | Nombres y datos |
 | :-------------: | :-------------: |
 | <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Imagenes/576b2809-af00-4afd-a629-0c133e03c5ec.jpg" alt="foto" width="100px" align="center">  | Florián Párraga Josué Abel (Programador y Desarrollador de Software) - josue.florian@upch.pe
 | <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Imagenes/91798e83-ebe3-4cb7-b238-8dd16d9290c5.jpg" alt="foto" width="100px" align="center"> |Nieves Sulca Jordan André (Coordinador de investigación) - jordan.nieves@upch.pe 
