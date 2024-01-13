@@ -24,6 +24,11 @@ A continuación mostraremos los resultados de los puntos 1,2 y 3 acompañados de
 ## Valores ajustados de la gráfica
 [Imágen de los valores ajustados de la gráfica](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Imagenes/imágenes%20laboratorio%201/Señal%20Sinusoidal.jpg)
 
+<p align="center">
+  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/raw/main/Imagenes/imágenes%20laboratorio%201/Señal%20Sinusoidal.jpg" width="500px">
+</p>
+
+
 ## Valores medidos de la señal de entrada en un periodo
 En 1.8ms
 Frecuencia = 1KHz
