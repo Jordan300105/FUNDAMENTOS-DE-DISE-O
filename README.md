@@ -8,10 +8,12 @@
 *Buscamos poder desarrollar e implementar soluciones de energía sostenible en Perú, enfocado en el uso de fuentes renovables para poder proporcionar acceso asequible a la energía sin dañar los ecosistemas.*
 
 ## **MIEMBROS**
+[MÁS SOBRE NOSOTROS](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Fundamentos%20de%20Diseño/Entregables/Sobre_nosotros.md)
+
 **El equipo está conformado por:**
 - Florián Párraga Josué Abel (Programador y Desarrollador de Software) - josue.florian@upch.pe
 - Nieves Sulca Jordan André (Coordinador de investigación)- jordan.nieves@upch.pe
-- Pérez Damián Cindy Mayomi (Coordinadora de prototipado)- cindy.perez@upch.pe
+- Pérez Damián Cindy Mayomi (Coordinadora de prototipado y Gestora del Proyecto)- cindy.perez@upch.pe
 - Salazar Leon Sergio Leoncio (Coordinador de modelado 3D)- sergio.salazar.l@upch.pe
 - Ugarte Cruz Alessandra (Coordinadora de boceto)-alessandra.ugarte@upch.pe
 
@@ -24,7 +26,7 @@
 >United Nations Web
 
 <p align= "center">
-  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/138902961/109d066f-fafc-4002-9512-dcc66c27a74f" alt="Grupo trabajando" width="300px" />
+  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Imagenes/485415e1-da12-4e20-a0d1-b93ac3ab2097.jpg" alt="Grupo trabajando" width="300px" />
 </p>
 
 
