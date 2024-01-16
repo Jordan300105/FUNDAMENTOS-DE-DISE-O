@@ -81,18 +81,7 @@ Plantear y promover alternativas de energía renovable (eólico) para el uso dia
 #  **Probando con tablas**
 ## **Tablas**
                     
-Una cosa  | Otra cosa
-------------- | -------------
-Contenido | Más contenido
-Todavía más contenido  | Incluso más contenido
 
-
-| Alineado a la izquierda  | Alineado al centro  | Alineado a la derecha |
-| :------------ |:---------------:| -----:|
-| sí      | pollo | S/. 20 |
-| no  | Papa        |   S/. 1 |
-| menos | Proteína       |    S/. 999 |
-                
 ----
 # **Bibliografía**
   - BC News, (22 de septiembre, 2021). ODS 7: Energía asequible y no contaminante. https://www.tuvsud.com/es-es/centro-recursos/blogs/ods-objetivos-desarrollo-sostenible/ods-7-energia-asequible-no-contaminante.
