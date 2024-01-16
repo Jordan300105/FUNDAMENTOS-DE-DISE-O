@@ -11,11 +11,11 @@
 [MÁS SOBRE NOSOTROS](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Fundamentos%20de%20Diseño/Entregables/Sobre_nosotros.md)
 
 **El equipo está conformado por:**
-- Florián Párraga Josué Abel (Programador y Desarrollador de Software) - josue.florian@upch.pe
-- Nieves Sulca Jordan André (Coordinador de investigación)- jordan.nieves@upch.pe
-- Pérez Damián Cindy Mayomi (Coordinadora de prototipado y Gestora del Proyecto)- cindy.perez@upch.pe
-- Salazar Leon Sergio Leoncio (Coordinador de modelado 3D)- sergio.salazar.l@upch.pe
-- Ugarte Cruz Alessandra (Coordinadora de boceto)-alessandra.ugarte@upch.pe
+- Florián Párraga Josué Abel **(Programador y Desarrollador de Software)** - josue.florian@upch.pe
+- Nieves Sulca Jordan André **(Coordinador de investigación)** - jordan.nieves@upch.pe
+- Pérez Damián Cindy Mayomi **(Coordinadora de prototipado y Gestora del Proyecto)** - cindy.perez@upch.pe
+- Salazar Leon Sergio Leoncio **(Coordinador de modelado 3D)** - sergio.salazar.l@upch.pe
+- Ugarte Cruz Alessandra **(Coordinadora de boceto)** -alessandra.ugarte@upch.pe
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 
@@ -81,18 +81,7 @@ Plantear y promover alternativas de energía renovable (eólico) para el uso dia
 #  **Probando con tablas**
 ## **Tablas**
                     
-Una cosa  | Otra cosa
-------------- | -------------
-Contenido | Más contenido
-Todavía más contenido  | Incluso más contenido
 
-
-| Alineado a la izquierda  | Alineado al centro  | Alineado a la derecha |
-| :------------ |:---------------:| -----:|
-| sí      | pollo | S/. 20 |
-| no  | Papa        |   S/. 1 |
-| menos | Proteína       |    S/. 999 |
-                
 ----
 # **Bibliografía**
   - BC News, (22 de septiembre, 2021). ODS 7: Energía asequible y no contaminante. https://www.tuvsud.com/es-es/centro-recursos/blogs/ods-objetivos-desarrollo-sostenible/ods-7-energia-asequible-no-contaminante.
