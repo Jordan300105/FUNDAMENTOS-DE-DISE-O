@@ -11,11 +11,11 @@
 [MÁS SOBRE NOSOTROS](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Fundamentos%20de%20Diseño/Entregables/Sobre_nosotros.md)
 
 **El equipo está conformado por:**
-- Florián Párraga Josué Abel (Programador y Desarrollador de Software) - josue.florian@upch.pe
-- Nieves Sulca Jordan André (Coordinador de investigación)- jordan.nieves@upch.pe
-- Pérez Damián Cindy Mayomi (Coordinadora de prototipado y Gestora del Proyecto)- cindy.perez@upch.pe
-- Salazar Leon Sergio Leoncio (Coordinador de modelado 3D)- sergio.salazar.l@upch.pe
-- Ugarte Cruz Alessandra (Coordinadora de boceto)-alessandra.ugarte@upch.pe
+- Florián Párraga Josué Abel **(Programador y Desarrollador de Software)** - josue.florian@upch.pe
+- Nieves Sulca Jordan André **(Coordinador de investigación)** - jordan.nieves@upch.pe
+- Pérez Damián Cindy Mayomi **(Coordinadora de prototipado y Gestora del Proyecto)** - cindy.perez@upch.pe
+- Salazar Leon Sergio Leoncio **(Coordinador de modelado 3D)** - sergio.salazar.l@upch.pe
+- Ugarte Cruz Alessandra **(Coordinadora de boceto)** -alessandra.ugarte@upch.pe
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 
