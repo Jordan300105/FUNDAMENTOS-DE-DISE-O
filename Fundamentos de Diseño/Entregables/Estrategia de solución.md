@@ -20,4 +20,6 @@ Para ello, es necesario medir el caudal de los ríos disponibles, para lo que se
 </p>
 
 >Caudalímetro Para Agua GPI TM050-N, IQ.S.A.C
- 
+
+# **Propuesta de solución:**
+Medidor de caudal que evalúe si los ríos de la región de colcabamba son aptos para la instalación de una pequeña central hidroeléctrica
