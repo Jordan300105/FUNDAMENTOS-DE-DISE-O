@@ -33,4 +33,5 @@ Por lo que, al usar una resistencia comercial de 10K Ohmios para R2, necesitarí
   <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/eca8d018-c5af-4deb-8d6d-1387e55932df" alt="Your Image" width="500">
 </p>
 
+### Logrando así, finalmente, el voltaje de 1.1 Voltios.
 
