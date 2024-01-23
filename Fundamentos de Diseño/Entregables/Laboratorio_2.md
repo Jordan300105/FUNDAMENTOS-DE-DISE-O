@@ -1,3 +1,5 @@
+#Laboratorio 2.- Ejercicios Fundamentos de Electrónica
+
 ## Para la realización de los circuitos, seguimos los códigos de colores para identificar el valor de cada una de nuestras resistencias.
 
 
