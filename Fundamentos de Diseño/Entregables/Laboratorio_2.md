@@ -59,14 +59,14 @@ Usando resistencias de 10k ohmios, identificamos la forma de realizar el circuit
 <p align="center">
     <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/7fe690a2-dd2f-4b40-999a-6eeb91d5a17d" alt="Your Image" width="500">
     <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/7a9a7f0e-2653-4fd6-aafe-bfd2d27ec75c" alt="Your Image" width="500">
+    <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/d47d96ea-d62b-4ff8-aa88-daa2fb08faea" alt="calculo" width="500">
+        <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/fdc633d2-28b1-48f7-9b01-0ecb577d24ac" alt="Your Image" width="500">
+
 
 </p>
 
 
 
-<p align="center">
-    <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/fdc633d2-28b1-48f7-9b01-0ecb577d24ac" alt="Your Image" width="500">
-</p>
 
 
 
@@ -111,7 +111,6 @@ $$
 
 <p align="center">
   <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/7bff15a3-8184-4c7d-8b72-e79eba81b89a" alt="circuito" width="500">
-  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/d47d96ea-d62b-4ff8-aa88-daa2fb08faea" alt="calculo" width="500">
   <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/0d0799d6-276b-4e8d-96d4-413efd70ce48" alt="calculo" width="500">
 
 
