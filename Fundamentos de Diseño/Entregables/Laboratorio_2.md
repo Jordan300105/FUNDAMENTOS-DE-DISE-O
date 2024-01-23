@@ -1,4 +1,4 @@
-#Laboratorio 2.- Ejercicios Fundamentos de Electrónica
+# Laboratorio 2.- Ejercicios Fundamentos de Electrónica
 
 [MÁS SOBRE NOSOTROS](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Fundamentos%20de%20Diseño/Entregables/Sobre_nosotros.md)
 
@@ -56,7 +56,7 @@ Al usar resitencias de 10k ohmios, realizamos el cálculo y obtuvimos un valor d
 
 # Ejercicio 3
 
-Usando resistencias de 10k ohmios, identificamos la forma de realizar el circuito y cumpla con los requerimientos al contar con 3 niveles en paralelo de 2 circuitos de serie cada una. COn los cálculos realizados y el multitester mostrando la resistencia de 4K ohmios confirmramos la correctitud del circuito.
+Usando resistencias de 10k ohmios, identificamos la forma de realizar el circuito y cumpla con los requerimientos al contar con 3 niveles en paralelo de 2 circuitos de serie cada una. Con los cálculos realizados y el multitester mostrando la resistencia de 4K ohmios confirmramos la correctitud del circuito.
 
 <p align="center">
     <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/7fe690a2-dd2f-4b40-999a-6eeb91d5a17d" alt="Your Image" width="500">
