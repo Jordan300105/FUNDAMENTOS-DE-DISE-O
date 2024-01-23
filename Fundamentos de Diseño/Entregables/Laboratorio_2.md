@@ -1,5 +1,7 @@
 #Laboratorio 2.- Ejercicios Fundamentos de Electrónica
 
+[MÁS SOBRE NOSOTROS](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Fundamentos%20de%20Diseño/Entregables/Sobre_nosotros.md)
+
 ## Para la realización de los circuitos, seguimos los códigos de colores para identificar el valor de cada una de nuestras resistencias.
 
 
