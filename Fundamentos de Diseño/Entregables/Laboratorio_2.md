@@ -24,6 +24,8 @@ Realizando los cálculos, obtenemos una resistencia total esperada de 6.6k ohmio
     <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/1bcb99d2-1cd9-4b88-a0b4-1d7fa0cd3c8a" alt="Your Image" width="500">
     <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/ae531941-9ad9-4f73-97c0-9e482dc89b69" alt="Your Image" width="500">
     <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/4c60229a-bd4c-4ceb-8400-a1d4ef6b84ee" alt="Your Image" width="500">
+    <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/9bc74dfc-83fc-410f-bcaa-2e41dd2be4d2" width="500">
+
 </p>
 
 
@@ -38,8 +40,9 @@ Al usar resitencias de 10k ohmios, realizamos el cálculo y obtuvimos un valor d
 <p align="center">
   <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/e64f5bcf-6cc7-4547-8e4d-de153fca6369" alt="Your Image" width="470">
   <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/915acf25-8022-4dcc-abef-19d6cf02c47f" alt="Your Image" width="470">
-  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/075bf3d6-b721-4b25-ab95-f76f43aefa5f" alt="Your Image" width="500">
+  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/f46397bf-9fc4-4ebe-9057-fa0de5eb080c" alt="Your Image" width="500">
 </p>
+
 
 ### El caso de este ejercicio presenta una situación interesante, puesto que la resistencia R5 está conectada en sus dos extremos al mismo punto, siendo, efectivamente, innecesaria, por lo que no afecta a la resistencia total del circuito
 
@@ -49,7 +52,7 @@ Al usar resitencias de 10k ohmios, realizamos el cálculo y obtuvimos un valor d
 
 # Ejercicio 3
 
-Usando resistencias de 10k ohmios, identificamos la forma de realizar el circuito y cumpla con los requerimientos al contar con 3 niveles en paralelo de 2 circuitos de serie cada una. COn los cálculos realizados y el multitester mostrando la resistencia ### confirmramos la correctitud del circuito.
+Usando resistencias de 10k ohmios, identificamos la forma de realizar el circuito y cumpla con los requerimientos al contar con 3 niveles en paralelo de 2 circuitos de serie cada una. COn los cálculos realizados y el multitester mostrando la resistencia de 4K ohmios confirmramos la correctitud del circuito.
 
 <p align="center">
     <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/7fe690a2-dd2f-4b40-999a-6eeb91d5a17d" alt="Your Image" width="500">
@@ -106,7 +109,10 @@ $$
 
 <p align="center">
   <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/7bff15a3-8184-4c7d-8b72-e79eba81b89a" alt="circuito" width="500">
+  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/d47d96ea-d62b-4ff8-aa88-daa2fb08faea" alt="calculo" width="500">
   <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/0d0799d6-276b-4e8d-96d4-413efd70ce48" alt="calculo" width="500">
+
+
 </p>
 
 
