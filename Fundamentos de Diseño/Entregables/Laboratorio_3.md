@@ -22,13 +22,14 @@ Primero tenemos que montar la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carri
 Es una placa microcontroladora con un chip que nos permite realzar conexión inalámbrica Wi-Fi o Bluetooth a otros ordenadores, La Arduino MKR WiFi 1010 es fácilmente reconocible por su diseño, siendo parte de la familia de placas MKR.
 ### Recolectar datos: 
 Las dos características particulares: es el sensor de temperatura y humedad, y la pantalla que se usará para imprimir los datos. Este sensor se llama HTS221
+# PRIMERA ACTIVIDAD: 
 ### Lectura de la temperatura y humedad: 
 
 <p align="center">
   <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/a6e47d2d-522d-4aeb-87da-8448c6179130" alt="Your Image">
 </p>
 
-# PRIMERA ACTIVIDAD: 
+# SEGUNDA ACTIVIDAD: 
 Mostrar los valores de la temperatura en las diferentes escalas, Celsius, Fahrenheit y Kelvin al presionar diferentes sensores touch (en este caso los espacios 2 y 3). Para esto, creamos las variables globales de kelvin y fahrenheit, así como las funciones que se encargan de medir en dichas escalas.
 <p align="center">
 
@@ -39,5 +40,19 @@ Mostrar los valores de la temperatura en las diferentes escalas, Celsius, Fahren
 | Medida de la temperatura en Kelvin  **(leyendo la temperatura en celsius y sumando 273.15)**  | <p align="center"><img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/f39ea474-50dc-4103-b37e-72e134cd9acc" width="400" alt="Your Image"></p>    |
 </p>
 
-# SEGUNDA ACTIVIDAD: 
+# TERCERA ACTIVIDAD: 
+Usando el sensor integrado del MKR IoT Carrier, logramos hacer que al bajar la temperatura del ambiente (en un rango pequeño, debido a la dificultad para variar la temperatura en el laboratorio) el programa detecte estas diferencias y cambie de color, mostrando mensajes variantes de frío y calor, junto a un zumbido del buzzer y el encendido de las luces led integradas, mostrando diferentes colores dependiendo de la temperatura.
+<p align="center">
+  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/b248cf30-76ad-4e0d-8162-67764a32489a" width="460" alt="Your Image">
+  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/18daa3e7-6092-452e-987f-06c2f2fe6b5c" width="480" alt="Your Image">
+</p>
+
+## Demostramos también el funcionamiento con alimentación externa, en este caso, una batería:
+
+<p align="center">
+  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/cf4720df-5e28-469c-8eab-f1a37c8933ec" width="460" alt="Your Image">
+  
+</p>
+
+
 
