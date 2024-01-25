@@ -54,5 +54,7 @@ Usando el sensor integrado del MKR IoT Carrier, logramos hacer que al bajar la t
   
 </p>
 
+Para ver nuestro código completo, puede hacer click [aquí](https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Software/codigo_uso_de_kit_arduino_.ino)
+
 
 
