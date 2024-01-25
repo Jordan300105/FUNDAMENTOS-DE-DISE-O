@@ -29,7 +29,7 @@ Las dos características particulares: es el sensor de temperatura y humedad, y 
 </p>
 
 # PRIMERA ACTIVIDAD: 
-
+Mostrar los valores de la temperatura en las diferentes escalas, Celsius, Fahrenheit y Kelvin al presionar diferentes sensores touch (en este caso los espacios 2 y 3). Para esto, creamos las variables globales de kelvin y fahrenheit, así como las funciones que se encargan de medir en dichas escalas.
 <p align="center">
 
 | Escala | Medida |
@@ -38,4 +38,6 @@ Las dos características particulares: es el sensor de temperatura y humedad, y 
 | Medida de la temperatura en Celsius **(con la función carrier.Env.readTemperature())**| <p align="center"><img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/3cca2d49-2b1b-4779-9c1c-f67da1b8321f" width="400" alt="Your Image"></p>    |
 | Medida de la temperatura en Kelvin  **(leyendo la temperatura en celsius y sumando 273.15)**  | <p align="center"><img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/assets/150297452/f39ea474-50dc-4103-b37e-72e134cd9acc" width="400" alt="Your Image"></p>    |
 </p>
+
+# SEGUNDA ACTIVIDAD: 
 
