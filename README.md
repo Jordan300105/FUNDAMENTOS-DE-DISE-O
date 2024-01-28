@@ -78,9 +78,7 @@ Plantear y promover alternativas de energía renovable (eólico) para el uso dia
 
 
 
-#  **Probando con tablas**
-## **Tablas**
-                    
+            
 
 ----
 # **Bibliografía**
