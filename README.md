@@ -26,7 +26,7 @@
 >United Nations Web
 
 <p align= "center">
-  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Imagenes/485415e1-da12-4e20-a0d1-b93ac3ab2097.jpg" alt="Grupo trabajando" width="300px" />
+  <img src="https://github.com/Jordan300105/FUNDAMENTOS-DE-DISE-O/blob/main/Imagenes/Miembros%20del%20grupo/Imagen%20grupal.jpg" alt="Grupo trabajando" width="300px" />
 </p>
 
 
@@ -88,6 +88,6 @@ Plantear y promover alternativas de energía renovable (eólico) para el uso dia
 
 **¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
 
-**[Nombre del Proyecto] - Desarrollando para un Futuro Sostenible 🌍**
+** VitalEcoPower - Desarrollando para un Futuro Sostenible 🌍**
 
 
