@@ -88,3 +88,4 @@ Plantear y promover alternativas de energía renovable (eólico) para el uso dia
 **¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
 
 ** VitalEcoPower - Desarrollando para un Futuro Sostenible 🌍**
+
