@@ -85,7 +85,6 @@ Plantear y promover alternativas de energía renovable (eólico) para el uso dia
   - BC News, (22 de septiembre, 2021). ODS 7: Energía asequible y no contaminante. https://www.tuvsud.com/es-es/centro-recursos/blogs/ods-objetivos-desarrollo-sostenible/ods-7-energia-asequible-no-contaminante.
 
 
-
 **¡Gracias por ser parte de nuestro proyecto de desarrollo sostenible!**
 
 ** VitalEcoPower - Desarrollando para un Futuro Sostenible 🌍**
